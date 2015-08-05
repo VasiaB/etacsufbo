@@ -1,0 +1,12 @@
+{
+    "indent": 4,
+    "unused": true,
+    "strict": true,
+    "globalstrict": true,
+    "mocha": true,
+    "node": true,
+    "esnext": true,
+    "globals": {
+	
+	}
+}
